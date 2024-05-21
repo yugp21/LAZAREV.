@@ -47,10 +47,10 @@
     }
     
     #page1 h1 {
-        font-size: 14vw;
+        font-size: 17vw;
         font-weight: 700;
         line-height: 14vw;
-        width: 80%;
+        width: 100%;
     }
 
     #page1 h1:nth-child(1) {
